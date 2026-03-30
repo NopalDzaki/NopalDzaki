@@ -1,24 +1,96 @@
-# 💫 About Me:
-I am an Information Systems student at ITS Surabaya who thrives at the intersection of Web Development and User Experience. With a technical toolkit including Laravel, Vue, Java, and Python, I don’t just write code—I build solutions.<br><br>My approach is rooted in empathy and logic, which recently led my team to secure 3rd Place at the UI/UX DECOMPE 4.0 ASEAN Competition. Currently, I’m sharpening my skills as a Web Developer Intern for the Bayucaraka UAV Research Team, focusing on creating seamless digital interfaces for complex systems.<br><br>I’m a fast adaptor who stays cool under pressure and loves collaborating in high-growth environments. Whether it's refining a back-end API or crafting an intuitive UI, I'm committed to delivering high-quality, user-centered results."
+# Hi 👋 I'm Naufal Dzaki Al Thaafah
+### Web Developer | UI/UX Designer
 
+I build web applications that don’t just work—but feel right to use.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uwPE6HKw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nopal.dzaki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naufal-dzaki11) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nopaldzk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naufalforyou11@gmail.com) 
+I’m an Information Systems student at Institut Teknologi Sepuluh Nopember (ITS), focused on bridging development 💻 and user experience 🎨. I specialize in transforming complex systems into simple, intuitive, and scalable digital products.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NopalDzaki&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NopalDzaki&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NopalDzaki&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NopalDzaki&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+Currently, I work as a Web Developer at the Bayucaraka UAV Research Team 🚀, contributing to building seamless interfaces for complex UAV systems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NopalDzaki&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 What I Do
+- Develop scalable web applications using modern frameworks
+- Design intuitive and user-centered interfaces
+- Translate complex systems into simple digital experiences
+- Collaborate in fast-paced, high-growth environments
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Core
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+### ⚙️ Supporting
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🧠 Others
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 UAV Dashboard System
+> Web-based dashboard for monitoring UAV data in real-time
+
+- Built with Laravel + Vue
+- Focused on usability for complex data visualization
+- Improved data readability & interaction
+
+---
+
+### 🌐 Personal Portfolio Website
+> Modern portfolio showcasing projects & UI/UX skills
+
+- Built with Next.js + Tailwind
+- Clean UI with responsive design
+- Optimized performance & SEO
+
+---
+
+### 📊 Web App (Custom Project)
+> Scalable web application with API integration
+
+- REST API integration
+- Authentication with JWT
+- Modular and maintainable structure
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=NopalDzaki&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=NopalDzaki&theme=dracula&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NopalDzaki&theme=dracula&hide_border=false&layout=compact)
+
+---
+
+## 🌱 Currently Exploring
+- Advanced Next.js patterns & architecture
+- System design fundamentals
+- UI/UX optimization & micro-interactions
+- Supabase ecosystem
+- SEO & web performance optimization
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naufal-dzaki11)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nopal.dzaki)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uwPE6HKw)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naufalforyou11@gmail.com)
+
+---
+
+## 🧠 Fun Fact
+I enjoy turning complex problems into simple systems—and occasionally debugging my life at 2AM ☕
