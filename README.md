@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Naufal Dzaki Al Thaafah<br>### Web Developer | UI/UX Designer<br><br>I build web applications that don’t just work—but feel right to use.<br><br>I’m an Information Systems student at Institut Teknologi Sepuluh Nopember (ITS), focused on bridging development 💻 and user experience 🎨. I specialize in transforming complex systems into simple, intuitive, and scalable digital products.<br><br>Currently, I work as a Web Developer at the Bayucaraka UAV Research Team 🚀, contributing to building seamless interfaces for complex UAV systems.<br><br>
+Hi 👋 I'm Naufal Dzaki Al Thaafah<br> Web Developer | UI/UX Designer<br><br>I build web applications that don’t just work—but feel right to use.<br><br>I’m an Information Systems student at Institut Teknologi Sepuluh Nopember (ITS), focused on bridging development 💻 and user experience 🎨. I specialize in transforming complex systems into simple, intuitive, and scalable digital products.<br><br>Currently, I work as a Web Developer at the Bayucaraka UAV Research Team 🚀, contributing to building seamless interfaces for complex UAV systems.<br><br>
 
 
 ## 🌐 Socials:
