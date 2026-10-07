@@ -268,7 +268,7 @@ A Laravel backend service that allows new students to retrieve their assigned gr
 
 </details>
 
-<details>
+<details open>
 <summary><b>⚙️ Backend, Data & Application Logic</b></summary>
 
 <br/>
@@ -290,7 +290,7 @@ A Laravel backend service that allows new students to retrieve their assigned gr
 
 </details>
 
-<details>
+<details open>
 <summary><b>📱 Mobile & Core Programming</b></summary>
 
 <br/>
@@ -306,7 +306,7 @@ A Laravel backend service that allows new students to retrieve their assigned gr
 
 </details>
 
-<details>
+<details open>
 <summary><b>🧩 Design, Workflow & Deployment</b></summary>
 
 <br/>
